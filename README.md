@@ -1,1 +1,2 @@
 # ExpoAstana
+This app is intended to help tourists, visitors of the AstanaExpo2017 to get updatable schedule with the detailed information for each day, to learn and get the idea behind this Exposition, to look through history of the previous Expos in an easy to follow way. In the next version this app will have an indoor and outdoor maps, and may be the Google Street View feature for each Country for those did not came, and even for those who will attend this Expo to easily navigate accross huge attractions.
