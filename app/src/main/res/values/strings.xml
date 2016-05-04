@@ -1,0 +1,162 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ExpoAstana</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_one">My Schedule</string>
+    <string name="fragment_two">Explore</string>
+    <string name="fragment_three">Map</string>
+    <string name="random_fragment">Random Fragment</string>
+    <string name="open_another_fragment">Open Another Fragment</string>
+    <string name="open_random_activity">Open Random Activity</string>
+    <string name="random_activity">Random Activity</string>
+    <!-- Navigation Drawer List -->
+    <string-array name="nav_list">
+        <item>Fragment One</item>
+        <item>Fragment Two</item>
+    </string-array>
+
+    <string name="more_items_button_desc_a11y">Tap to show more items.</string>
+
+    <!-- Button to view more Videos or sessions from the videos/sessions card view. -->
+    <string name="more_items_button">More</string>
+
+
+    <!-- Accessibility description for a control that allows the user to close the current screen
+         and go back to the previous one. -->
+    <string name="close_and_go_back">Close and go back</string>
+
+    <!-- Message shown in the session explorer when the user applies a filter that results no
+    session -->
+    <string name="no_matching_sessions">No matching sessions.</string>
+
+    <!-- Navigation bar text for exploring the sessions -->
+    <string name="title_explore">Explore</string>
+
+    <!-- Shown on the Session page if a session is being livestreamed. -->
+    <string name="session_live_streamed">Live streamed</string>
+
+    <!-- Content description for overlay marker showing if a session is in the user's schedule  -->
+    <string name="session_in_schedule_indicator_a11y">Session is in your schedule</string>
+
+    <!-- Accessibility description for viewing more sessions/videos including the topic/theme . -->
+    <string name="more_items_button_desc_with_label_a11y">Tap to show more <xliff:g id="itemName">%1$s</xliff:g> items.</string>
+
+    <!-- An application permission (this permission allows the application to modify the Google
+    I/O schedule data). Shows on a permissions dialog screen. -->
+    <string name="permission_write">Modify Google I/O schedule data</string>
+
+    <!-- Show Day and start time of a session as the title when viewing browsing sessions
+         (ExploreSessionActivity) from MySchedule. -->
+    <string name="explore_sessions_time_slot_title">
+        <xliff:g example="Day 1" id="day">%1$s</xliff:g>, <xliff:g example="2:30PM" id="start_time">%2$s</xliff:g>
+    </string>
+
+    <!-- Show the Day 1 or Day 2 as part of either the ExploreSessionsActivity title or
+         in the session details. -->
+    <string name="explore_sessions_show_day_n">Day %d</string>
+
+    <!-- Sub-title for a session in ExploreSessionsActivity that shows the day, time and room name
+        for a given session.
+        Example: Day 1 / 9:00AM - 11:00AM / Room 1 -->
+    <string name="explore_sessions_show_day_hour_and_room">
+        <xliff:g example="Day 1" id="day">%1$s</xliff:g> /
+        <xliff:g example="2:00PM" id="start_time">%2$s</xliff:g> -
+        <xliff:g example="3:00PM" id="end_time">%3$s</xliff:g> /
+        <xliff:g id="room">%4$s</xliff:g></string>
+
+    <!-- Generic error message used for errors that should never happen. This explains to the user
+         that we can't execute the request when they click a button or touch a part of the screen
+         that should normally be touchable. -->
+    <string name="unknown_error">Whoops, we couldn\'t process that request.</string>
+
+
+    <!-- Shown on the Session page, alerting user that no details could be found for that session. -->
+    <string name="empty_session_detail">No session details found.</string>
+
+    <!--Indicates the item is actionable and the user can tap on it-->
+    <string name="talkback_button">%1$s button</string>
+
+    <!-- Map breadcrumb text for navigating session entries -->
+    <string name="title_session_detail">Session Information</string>
+
+    <!-- Subtitle of a session indicating time interval and room number -->
+    <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> in <xliff:g id="room">%2$s</xliff:g></string>
+
+    <!-- Menu item to open the Explore screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_explore">Explore</string>
+
+    <!-- Accessibility description for menu item to open the Explore screen. -->
+    <string name="navdrawer_item_explore_a11y">Explore Google I/O</string>
+
+    <!-- Menu item to open the Map screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_map">Map</string>
+
+    <!-- Menu item to open the My Schedule screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_my_schedule">My Schedule</string>
+
+    <!-- Menu item to open the Explore Screen with the Live I/O card [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_io_live">I/O Live</string>
+
+    <!-- Menu item to open the Settings screen [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_settings">Settings</string>
+
+    <!-- Menu item to open a screen that lists I/O related hashtags. Each hashtag, when clicked, will
+    open Google+ stream of posts that uses the hashtag [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_social">Social</string>
+
+    <!-- Menu item that brings up the application's About screen -->
+    <string name="description_about">About</string>
+
+    <!-- Accessibility description for navigation drawer -->
+    <string name="navdrawer_description_a11y">Navigation Drawer used to switch between major
+        features of the application</string>
+
+    <string name="navdrawer_selected_menu_item_a11y_wrapper">%1$s selected menu item</string>
+
+    <string name="navdrawer_menu_item_a11y_wrapper">%1$s  menu item</string>
+
+    <!-- Shown in a drop-down list on the main screen, indicating that all conference themes
+        are being displayed. Themes are major categories for sessions (the themes are Design,
+        Develop and Distribute). -->
+    <string name="all_themes">All Themes</string>
+
+    <!-- Shown in a drop-down list on the main screen, indicating that all conference topics
+    are being displayed. Topics are major categories for sessions (example topics are: Android,
+    Chrome, Google APIs, Wearables, etc). -->
+    <string name="all_topics">All Topics</string>
+
+    <!-- Shown in a drop-down list on the main screen, indicating that all session types
+    are being displayed. Some examples of session types are: session, office hours, code lab. -->
+    <string name="all_types">All Types</string>
+
+    <!-- Short text label indicating a grouping of themes -->
+    <string name="themes">Themes</string>
+
+    <!-- Label for exploration category which groups session topics -->
+    <string name="topics">Topics</string>
+
+    <!-- Label for exploration category which groups session types -->
+    <string name="types">Types</string>
+
+    <!-- Label on a button that allows the user to see what conference sessions are available
+    at a particular time. -->
+    <string name="browse_sessions">BROWSE SESSIONS</string>
+
+    <!-- Label for the button to rate a session -->
+    <string name="my_schedule_rate_this_session">RATE THIS SESSION</string>
+
+    <plurals name="schedule_block_subtitle"
+             description="Shown in the schedule to indicate how many sessions are available on that particular time slot.">
+        <item quantity="one"><xliff:g id="number_of_sessions">%1$d</xliff:g> available session</item>
+        <item quantity="other"><xliff:g id="number_of_sessions">%1$d</xliff:g> available sessions</item>
+    </plurals>
+
+    <!-- Text for a session subtitle indicating it does not have a room specified -->
+    <string name="unknown_room">(Unspecified Room)</string>
+
+    <!--Indicates the item is currently selected-->
+    <string name="talkback_selected">%1$s selected</string>
+
+    <!-- Accessibility description for buttons -->
+    <string name="a11y_button">%s button</string>
+
+</resources>

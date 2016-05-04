@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <!-- Collection View which holds the explore card stream
+         We have to disable clipping as CardView (used in the stream) draws outside it's
+         bounds to show a shadow. -->
+    <com.madone.virtualexpo.expoastana.ui.widget.CollectionView
+        android:id="@+id/explore_collection_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:paddingBottom="@dimen/spacing_normal" />
+
+    <!-- Views in FrameLayout are stacked on top of each other so this is what is displayed when
+     CollectionView is empty -->
+    <ImageView
+        android:id="@android:id/empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/app_primary_accent"
+        android:scaleType="fitCenter" />
+
+</FrameLayout>

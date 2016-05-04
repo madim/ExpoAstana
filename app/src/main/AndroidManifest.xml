@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.madone.virtualexpo.expoastana"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          android:installLocation="auto">
+
+    <permission
+        android:name="com.madone.virtualexpo.expoastana.permission.WRITE_SCHEDULE"
+        android:description="@string/permission_write"
+        android:label="@string/permission_write"
+        android:protectionLevel="normal" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.NFC"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.IOSched">
+
+        <activity
+            android:name=".explore.ExploreExpoActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.IOSched.Sessions"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- Web URLs -->
+            <intent-filter android:label="@string/app_name"
+                           android:priority="0">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!-- These catch /io2015 as well as /io2015//// because of pathPattern.
+     Dev testing easily done with adb commands:
+     adb shell am start -a android.intent.action.VIEW -d http://events.google.com/io2015 -->
+                <data
+                    android:host="events.google.com"
+                    android:pathPattern="/io2015/*"
+                    android:scheme="http" />
+                <data
+                    android:host="events.google.com"
+                    android:pathPattern="/io2015/*"
+                    android:scheme="https" />
+
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".myschedule.MyScheduleActivity"
+            android:launchMode="singleTop"
+            android:label="Schedule"
+            android:parentActivityName=".explore.ExploreExpoActivity"
+            android:theme="@style/Theme.IOSched.MySchedule"
+            android:exported="true">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".explore.ExploreExpoActivity" />
+
+            <intent-filter android:label="@string/app_name"
+                           android:priority="200">
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!-- This catches /events/io/schedule but not /events/io/schedule//////
+                     See above for testing notes. -->
+                <data
+                    android:host="www.google.com"
+                    android:path="/events/io/schedule"
+                    android:scheme="http" />
+                <data
+                    android:host="www.google.com"
+                    android:path="/events/io/schedule"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".explore.ExploreSessionsActivity"
+            android:label="Explore"
+            android:theme="@style/Theme.IOSched.WithNavDrawer"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="vnd.android.cursor.dir/vnd.iosched2015.session" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".session.SessionDetailActivity"
+            android:label="@string/title_session_detail"
+            android:theme="@style/Theme.IOSched.SessionDetails"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="vnd.android.cursor.item/vnd.iosched2015.session" />
+            </intent-filter>
+            <!-- Android Beam for session details -->
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="vnd.android.cursor.item/vnd.iosched2015.session" />
+            </intent-filter>
+            <!-- Web URLs -->
+            <!-- URLs are indexed in search engines in the form:
+                 https://events.google.com/io2015/schedule?sid=<session_id>
+                 so direct session links are captured in MySchedule. -->
+        </activity>
+
+
+        <!-- Data, sync and schedule editing components -->
+
+        <provider
+            android:name=".provider.ScheduleProvider"
+            android:authorities="com.madone.virtualexpo.expoastana"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:syncable="true"
+            android:writePermission="com.madone.virtualexpo.expoastana.permission.WRITE_SCHEDULE" />
+
+        <!-- An IntentService responsible for bootstrapping the app with the necessary
+            data such as session, speakers, etc. This data is used prior to the app's
+            first sync to the backend server. -->
+        <service
+            android:name=".service.DataBootstrapService"
+            android:exported="false" />
+
+
+    </application>
+
+</manifest>

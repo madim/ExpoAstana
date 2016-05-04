@@ -1,0 +1,1026 @@
+{
+  "blocks": [
+    {
+      "end": "2015-05-29T00:00:00.000Z",
+      "start": "2015-05-28T14:00:00.000Z",
+      "subtitle": "Registration Desk",
+      "title": "Exhibitor Registration",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-28T16:00:00.000Z",
+      "start": "2015-05-28T14:00:00.000Z",
+      "subtitle": "Cafe, Level 1",
+      "title": "Breakfast",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-28T16:30:00.000Z",
+      "start": "2015-05-28T16:00:00.000Z",
+      "subtitle": "Central Room",
+      "title": "Pre-Expo Show",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-28T21:00:00.000Z",
+      "start": "2015-05-28T19:00:00.000Z",
+      "subtitle": "Cafe, Level 1",
+      "title": "Lunch",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-28T18:00:00.000Z",
+      "start": "2015-05-28T17:30:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-28T19:00:00.000Z",
+      "start": "2015-05-28T18:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-28T20:00:00.000Z",
+      "start": "2015-05-28T19:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-28T21:00:00.000Z",
+      "start": "2015-05-28T20:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-28T22:00:00.000Z",
+      "start": "2015-05-28T21:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-28T23:00:00.000Z",
+      "start": "2015-05-28T22:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T00:00:00.000Z",
+      "start": "2015-05-28T23:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T05:00:00.000Z",
+      "start": "2015-05-29T01:30:00.000Z",
+      "subtitle": "Registered attendees are invited to mingle, enjoy great food and listen to some tunes with us After Hours. Conference credentials are required for entry.",
+      "title": "Last Hour Happy Hour",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-29T22:00:00.000Z",
+      "start": "2015-05-29T15:00:00.000Z",
+      "subtitle": "Registration Desk",
+      "title": "Badge Pick-Up",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-29T16:00:00.000Z",
+      "start": "2015-05-29T14:00:00.000Z",
+      "subtitle": "Cafe, Level 1",
+      "title": "Breakfast",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-29T17:00:00.000Z",
+      "start": "2015-05-29T16:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T18:00:00.000Z",
+      "start": "2015-05-29T17:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T21:00:00.000Z",
+      "start": "2015-05-29T19:00:00.000Z",
+      "subtitle": "Cafe, Level 1",
+      "title": "Lunch",
+      "type": "free"
+    },
+    {
+      "end": "2015-05-29T19:00:00.000Z",
+      "start": "2015-05-29T18:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T20:00:00.000Z",
+      "start": "2015-05-29T19:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T21:00:00.000Z",
+      "start": "2015-05-29T20:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T22:00:00.000Z",
+      "start": "2015-05-29T21:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-29T23:00:00.000Z",
+      "start": "2015-05-29T22:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    },
+    {
+      "end": "2015-05-30T00:00:00.000Z",
+      "start": "2015-05-29T23:00:00.000Z",
+      "subtitle": "",
+      "title": "",
+      "type": "break"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "3a048036-ebf4-e411-b87f-00155d5066d7",
+      "name": "Design Sandbox (L2)",
+      "original_id": "3a048036-ebf4-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "9cf51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Design Talk (L2)",
+      "original_id": "9cf51a8f-ace3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "f4ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "name": "Alcove 3 (L2)",
+      "original_id": "f4ab1f84-c8e3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "name": "Develop Sandbox (L2)",
+      "original_id": "e32adaab-37e5-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "room1",
+      "name": "Room 1 (L2)",
+      "original_id": "cbce21ff-2cbe-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "room2",
+      "name": "Room 2 (L2)",
+      "original_id": "3c9c1a44-d4e2-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "a0f51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Develop Talk 3 (L2)",
+      "original_id": "a0f51a8f-ace3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "54089d7a-24e5-e411-b87f-00155d5066d7",
+      "name": "After Hours",
+      "original_id": "54089d7a-24e5-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "70017e11-98e4-e411-b87f-00155d5066d7",
+      "name": "Sandbox (L2)",
+      "original_id": "70017e11-98e4-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "f0ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "name": "Alcove 1 (L2)",
+      "original_id": "f0ab1f84-c8e3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "f2ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "name": "Alcove 2 (L2)",
+      "original_id": "f2ab1f84-c8e3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "a4f51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Develop Talk 1 (L2)",
+      "original_id": "a4f51a8f-ace3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "keynote",
+      "name": "Central Room (L3)",
+      "original_id": "e9f3b25f-d4e2-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "a2f51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Develop Talk 2 (L2)",
+      "original_id": "a2f51a8f-ace3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "sandbox",
+      "name": "Lounge Talk (L2)",
+      "original_id": "6822c256-d4e2-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "a6f51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Showcase Talk (L3)",
+      "original_id": "a6f51a8f-ace3-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "room3",
+      "name": "Room 3 (L2)",
+      "original_id": "82588250-d4e2-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "5654bc28-98e7-e411-b87f-00155d5066d7",
+      "name": "TBD",
+      "original_id": "5654bc28-98e7-e411-b87f-00155d5066d7"
+    },
+    {
+      "id": "9ef51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Earn & Engage Talk (L2)",
+      "original_id": "9ef51a8f-ace3-e411-b87f-00155d5066d7"
+    }
+  ],
+  "sessions": [
+    {
+      "color": "#3f51b5",
+      "description": "The theme chosen for the Expo 2017 is Future Energy. The theme is aimed to concentrate on both the future of energy, but also on innovative, but practical energy solutions, and their global impact.",
+      "endTimestamp": "2015-05-28T18:30:00Z",
+      "hashtag": "keynote",
+      "id": "__keynote__",
+      "isLivestream": true,
+      "mainTag": "FLAG_KEYNOTE",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bayterek_Flowers.jpg",
+      "room": "keynote",
+      "speakers": [],
+      "startTimestamp": "2015-05-28T16:30:00Z",
+      "tags": [
+        "FLAG_KEYNOTE"
+      ],
+      "title": "Keynote",
+      "url": "https://events.google.com/io2015/",
+      "youtubeUrl": "wtLJPvx7-ys"
+    },
+    {
+      "description": "Ban Ki-moon is the eighth Secretary-General of the United Nations. His priorities have been to mobilize world leaders around a set of new global challenges, from climate change and economic upheaval to pandemics and increasing pressures involving food, energy and water. He has sought to be a bridge-builder, to give voice to the world’s poorest and most vulnerable people, and to strengthen the Organization itself.",
+      "endTimestamp": "2015-05-29T19:30:00Z",
+      "hashtag": "tools&apis",
+      "id": "f37a6899-89e4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_TOOLS&APIS",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/11/BanKiMoon_SegretarioGeneraleNazioniUnite.jpg",
+      "relatedContent": [
+        {
+          "id": "c058a197-b6d4-e411-b87f-00155d5066d7",
+          "title": "Video chat for Web, iOS and Android"
+        },
+        {
+          "id": "a18c9f91-b6d4-e411-b87f-00155d5066d7",
+          "title": "The Gold Standard: Accessible Web Components"
+        },
+        {
+          "id": "fa7d85ce-89e4-e411-b87f-00155d5066d7",
+          "title": "The Gold Standard: Accessible Web Components"
+        },
+        {
+          "id": "b58c9f91-b6d4-e411-b87f-00155d5066d7",
+          "title": "Lovefield"
+        },
+        {
+          "id": "67fa8734-8be4-e411-b87f-00155d5066d7",
+          "title": "Lovefield"
+        }
+      ],
+      "room": "a4f51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "1166730e-bdd4-e411-b87f-00155d5066d7",
+        "ee66e795-4add-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T19:00:00Z",
+      "tags": [
+        "TOPIC_TOOLS&APIS",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Ban Ki-moon, Segretario Generale delle Nazioni Unite",
+      "url": "https://events.google.com/io2015/schedule#/f37a6899-89e4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Last June, Queen Letizia was named FAO Special Ambassador for Nutrition in recognition of her personal commitment for a world free from hunger and malnutrition, as well as Spain's efforts in promoting food and nutrition security across the world. Awareness is growing internationally that efforts to eradicate chronic hunger must be accompanied by a push to improve nutrition - that ensuring good quality of diets is just as important as ensuring sufficient amounts of food.",
+      "endTimestamp": "2015-05-29T22:00:00Z",
+      "hashtag": "tools&apis",
+      "id": "ac58a197-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_TOOLS&APIS",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/11/ReginaLetizia_Spagna_Regina.jpg",
+      "relatedContent": [
+        {
+          "id": "a18c9f91-b6d4-e411-b87f-00155d5066d7",
+          "title": "The Gold Standard: Accessible Web Components"
+        },
+        {
+          "id": "fa7d85ce-89e4-e411-b87f-00155d5066d7",
+          "title": "The Gold Standard: Accessible Web Components"
+        },
+        {
+          "id": "1a3da45a-83e7-e411-b87f-00155d5066d7",
+          "title": "Performance on RAILs"
+        }
+      ],
+      "room": "a4f51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "e87fe1e8-48dd-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T21:30:00Z",
+      "tags": [
+        "TOPIC_TOOLS&APIS",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Regina Letizia di Spagna",
+      "url": "https://events.google.com/io2015/schedule#/ac58a197-b6d4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The visitor’s itinerary – most of it taking place on the first floor – centered on spectacular projections, taking up whole walls as they illustrated the landscape and history of Argentina, creating a sensation of “imaginary travel”. A land of vast spaces, historically linked to Italy through its volume of Italian immigrants a century ago, Argentina presented itself with a Pavilion made up of a cluster of interconnected silos which also evoked a system of metal gear machinery. The statement made by this shape was that Argentina was not only a vast nation rich in agricultural resources, but also a modern nation capable of using technology to transform its resources into value added products.",
+      "endTimestamp": "2015-05-28T20:00:00Z",
+      "hashtag": "location",
+      "id": "0759a197-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_AUDIENCEGROWTH",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/10/Argentina_pic06.jpg",
+      "room": "f0ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "3bf79b63-8edc-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-28T19:30:00Z",
+      "tags": [
+        "TOPIC_AUDIENCEGROWTH",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Argentina",
+      "url": "https://events.google.com/io2015/schedule#/0759a197-b6d4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "To welcome the French delegation, this morning, were the Prime Minister Matteo Renzi and the Commissioner of the Government Delegate Unique Expo Milano 2015 Giuseppe Sala. They took part in the raising ceremony the Minister of Agriculture Maurizio Martina, the Commissioner General of Expo 2015 Bruno Pasquino, the Mayor of Milan Giuliano Pisapia, the Regional Minister Valentina Aprea education and the Prefect of Milan Francesco Paolo Trim. The French delegation was attended by Agriculture Minister Stéphane Le Foll, former Minister of Culture Jack Lang, French Ambassadress to Italy Catherine Colonna and the French Pavilion Commissioner General Alain Berger. Among the also present the actress Carole Bouquet.",
+      "endTimestamp": "2015-05-29T18:30:00Z",
+      "hashtag": "tools&apis",
+      "id": "b158a197-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_TOOLS&APIS",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/11/Hollande_Francia_Presidente.jpg",
+      "room": "a4f51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "e0e5733e-4add-e411-b87f-00155d5066d7",
+        "bf3bdc4c-4add-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T18:00:00Z",
+      "tags": [
+        "TOPIC_TOOLS&APIS",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Francois Hollande, Presidente francese",
+      "url": "https://events.google.com/io2015/schedule#/b158a197-b6d4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The exhibition was a showcase of the advances made in the industrial revolution , especially in the decade since the first Great Exhibition of 1851. Among the items on display were; the electric telegraph, submarine cables, the first plastic, Parkesine , machine tools , looms and precision instruments.",
+      "endTimestamp": "2015-05-29T22:00:00Z",
+      "hashtag": "android",
+      "id": "8ce26177-6ae4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_AUTO",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/1862_international_exhibition_01.jpg",
+      "room": "a6f51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "36862be4-e5ed-e411-b87f-00155d5066d7",
+        "52333222-e6ed-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T21:30:00Z",
+      "tags": [
+        "TOPIC_AUTO",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Industry and Arts",
+      "url": "https://events.google.com/io2015/schedule#/8ce26177-6ae4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The Chancellor's private visit, without scheduled appointments with the media, was brought forward by one day because of Merkel's political schedule. Today Merkel is reportedly expected to attend a meeting at the Bundestag about Greece, before leaving with six ministers for a mission in Brazil. Merkel asked about the future of the Expo and the legacy of the exhibition site. “We arrived on time for the start of Expo, we will arrive on time for its future,” Renzi replied. According to the Expo commissioner, Giuseppe Sala, “the Zero pavilion is among those likely to stay.”",
+      "endTimestamp": "2015-05-28T21:30:00Z",
+      "hashtag": "tools&apis",
+      "id": "c79db5af-10e9-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_TOOLS&APIS",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/11/Merkel_Germania_PrimoMinistro.jpg",
+      "room": "a0f51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "8af74012-b6ea-e411-b87f-00155d5066d7",
+        "4353492d-80ef-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-28T21:00:00Z",
+      "tags": [
+        "TOPIC_TOOLS&APIS",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Angela Merkel, Primo Ministro tedesco",
+      "url": "https://events.google.com/io2015/schedule#/c79db5af-10e9-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Russian president Vladimir Putin is to circumvent a Western pledge to isolate Moscow internationally over the crisis in Ukraine by visiting the universal exhibition in Milan, Italy, days after the world leaders assemble without him in Germany for the G7 summit.The Kremlin has confirmed Putin will hold talks with Italian officials after touring the site of Expo Milan 2015, a food-themed commercial fair. ",
+      "endTimestamp": "2015-05-28T23:00:00Z",
+      "hashtag": "tools&apis",
+      "id": "5b59a197-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_TOOLS&APIS",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/11/Putin_Russia_Presidente.jpg",
+      "room": "9ef51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "45cc3a01-d2d4-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-28T22:30:00Z",
+      "tags": [
+        "TOPIC_TOOLS&APIS",
+        "TOPIC_AUDIENCEGROWTH",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Vladimir Putin, Presidente russo",
+      "url": "https://events.google.com/io2015/schedule#/5b59a197-b6d4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The Prime Minister, David Cameron, and UK Minister for Trade and Investment, Lord Maude of Horsham, will be in Milan on National Day to meet with UK and international businesses at the Expo.UK National Day is timed to coincide with Her Majesty The Queen’s official birthday celebrations, which take place around the world.",
+      "endTimestamp": "2015-05-29T21:30:00Z",
+      "hashtag": "tools&apis",
+      "id": "ec7a9cc7-cae3-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_TOOLS&APIS",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/11/Cameron_UK_PrimoMinistro.jpg",
+      "room": "f2ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "85b72a39-d3d4-e411-b87f-00155d5066d7",
+        "f948313f-d3d4-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T21:00:00Z",
+      "tags": [
+        "TOPIC_TOOLS&APIS",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "David Cameron, Primo Ministro del Regno Unito",
+      "url": "https://events.google.com/io2015/schedule#/ec7a9cc7-cae3-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The National Day is a wonderful chance for a participating country to tell about itself, its history and traditions. Kazakhstan has been participating in the EXPO events around the world since 2005. This year Kazakhstani pavilion is one of the most popular in Milan. It is visited by up to 5,000 guests a day. It is very unique and full of colors with rich content.Kazakhstan collaborated with German firm Facts and Fiction to create the pavilion expressing the country's hospitality and openness to Italian and international visitors to EXPO 2015.",
+      "endTimestamp": "2015-05-28T21:30:00Z",
+      "hashtag": "tools&apis",
+      "id": "4e8c9f91-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_TOOLS&APIS",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/12/0003_Nursultan-Nazarbayev_Presidente_Kazakistan.png",
+      "room": "9cf51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "dffe7257-86dc-e411-b87f-00155d5066d7",
+        "841c4867-86dc-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-28T21:00:00Z",
+      "tags": [
+        "TOPIC_TOOLS&APIS",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Nursultan Nazarbayev Presidente Kazakistan",
+      "url": "https://events.google.com/io2015/schedule#/4e8c9f91-b6d4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Registered attendees are invited to mingle with devs, enjoy great food and listen to some tunes with us After Hours. Conference credentials are required for entry.",
+      "endTimestamp": "2015-05-29T05:00:00Z",
+      "id": "__afterhours__",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/44a80622-24e5-e411-b87f-00155d5066d7.jpg",
+      "room": "5654bc28-98e7-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T01:30:00Z",
+      "tags": [
+        "TYPE_MISC"
+      ],
+      "title": "After Hours",
+      "url": "https://events.google.com/io2015/schedule#/44a80622-24e5-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T00:00:00Z",
+      "id": "568046bd-cbef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/568046bd-cbef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-28T23:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/568046bd-cbef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Among the horological exhibits, stood out a monumental model, an elaborate conical pendulum clock crafted by two of France's most important artisans of the second half of the 19th century—renowned clockmaker E. Farcot and sculptor Albert-Ernest Carrier-Be Belleuse. Farcot exhibited several units, one of them it is currently in the Roosevelt Hotel in New Orleans.",
+      "endTimestamp": "2015-05-28T21:00:00Z",
+      "hashtag": "android",
+      "id": "6a8c9f91-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_AUTO",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Exposition_Universelle_1867.jpg/250px-Exposition_Universelle_1867.jpg",
+      "room": "a6f51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "36862be4-e5ed-e411-b87f-00155d5066d7",
+        "52333222-e6ed-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-28T20:30:00Z",
+      "tags": [
+        "TOPIC_AUTO",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Agriculture, Industry and Arts",
+      "url": "https://events.google.com/io2015/schedule#/6a8c9f91-b6d4-e411-b87f-00155d5066d7"
+    },
+    {
+      "captionsUrl": "http://io-captions.appspot.com/?event=e3&android=t",
+      "description": "Air is a necessity for human life: this is why Austria’s Pavilion offered visitors a path through a microclimate characterized by the country’s typical vegetation, capable of creating naturally cooler temperatures without air conditioning: cooling plants indeed!",
+      "endTimestamp": "2015-05-30T00:00:00Z",
+      "hashtag": "audiencegrowth",
+      "id": "ea8b9f91-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": true,
+      "mainTag": "TOPIC_AUDIENCEGROWTH",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/10/austria_pic01.jpg",
+      "room": "room3",
+      "speakers": [
+        "f80f2f4b-b9d4-e411-b87f-00155d5066d7",
+        "dac441ce-ddd8-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T23:00:00Z",
+      "tags": [
+        "TYPE_SESSIONS",
+        "THEME_WHATSNEXT",
+        "TOPIC_AUDIENCEGROWTH"
+      ],
+      "title": "Austria",
+      "url": "https://events.google.com/io2015/schedule#/ea8b9f91-b6d4-e411-b87f-00155d5066d7",
+      "youtubeUrl": "Lj-plmzhyVA"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T23:00:00Z",
+      "id": "b43f8473-ccef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/b43f8473-ccef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T22:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/b43f8473-ccef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T17:00:00Z",
+      "id": "64041bcb-cbef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/64041bcb-cbef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T16:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/64041bcb-cbef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The eye-catching Azerbaijan Pavilion at Expo Milano 2015 is particularly striking for its complexity, reflecting a country where diverse cultures meet, and where human history took its first steps.At the entrance, a statue of an over-sized candy provides a sweet welcome to the visitors. A rectangular building containing glass spheres, one of which can be seen from the outside, provide a metaphor for a country that is at home with, and works to protect its biodiversity.",
+      "endTimestamp": "2015-05-29T18:00:00Z",
+      "hashtag": "audiencegrowth",
+      "id": "d6742a26-84e4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_AUDIENCEGROWTH",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/10/azerb_thumbnail.jpg",
+      "room": "9ef51a8f-ace3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "4cc92ea7-7edc-e411-b87f-00155d5066d7",
+        "4ee4be33-0ced-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T17:30:00Z",
+      "tags": [
+        "TOPIC_AUDIENCEGROWTH",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Azerbaijan",
+      "url": "https://events.google.com/io2015/schedule#/d6742a26-84e4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T21:00:00Z",
+      "id": "109cbdbb-ccef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/109cbdbb-ccef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T20:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/109cbdbb-ccef-e411-b87f-00155d5066d7"
+    },
+    {
+      "captionsUrl": "http://io-captions.appspot.com/?event=e1&android=t",
+      "description": "Attract, inform and captivate: the three objectives (and areas) in which the Belgian Pavilion at Expo Milano 2015 was divided. It was inspired by the classical shapes of a farm (it reminded us of the form of Cascina Triulza), with its simple lines in wood and glass. The roof was covered by integrated cutting edge solar panels made with organic lightweight material that could capture even the slightest of sunrays. Thanks also to the vertical wind turbine at the entrance; the structure limited the maximum consumption of fossil fuels.",
+      "endTimestamp": "2015-05-29T18:00:00Z",
+      "hashtag": "audiencegrowth",
+      "id": "60718f8b-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": true,
+      "mainTag": "TOPIC_AUDIENCEGROWTH",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/10/belgio_pic4.jpg",
+      "room": "room1",
+      "speakers": [
+        "38657c71-dcd8-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T17:00:00Z",
+      "tags": [
+        "TYPE_SESSIONS",
+        "THEME_WHATSNEXT",
+        "TOPIC_AUDIENCEGROWTH"
+      ],
+      "title": "Belgium. A Time Corridor Leading to Food’s Future",
+      "url": "https://events.google.com/io2015/schedule#/60718f8b-b6d4-e411-b87f-00155d5066d7",
+      "youtubeUrl": "4ZV54aJhues"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-28T23:00:00Z",
+      "id": "32a6f5f6-caef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/32a6f5f6-caef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-28T22:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/32a6f5f6-caef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T19:00:00Z",
+      "id": "bc8b5e25-ccef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/bc8b5e25-ccef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T18:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/bc8b5e25-ccef-e411-b87f-00155d5066d7"
+    },
+    {
+      "captionsUrl": "http://io-captions.appspot.com/?event=e1&android=t",
+      "description": "Market, barn and wine cellar, cathedral and hive… the French Pavilion in Expo Milano 2015 was all these things, thanks to its imaginative structure, evoking first and foremost the Halles, the traditional covered markets spread all over France. The Pavilion (official name “Canopée”) was made entirely of French wood – spruce on the inside, larch on the outside – used to create complex geometries full of varying curves and counter-curves which exalted the capacity of wood to achieve unusual lines",
+      "endTimestamp": "2015-05-29T23:00:00Z",
+      "hashtag": "audiencegrowth",
+      "id": "f48b9f91-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": true,
+      "mainTag": "TOPIC_AUDIENCEGROWTH",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/10/francia_pic1.jpg",
+      "room": "room1",
+      "speakers": [
+        "3a869128-f1e6-e411-b87f-00155d5066d7",
+        "91b9ebbb-a1e7-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T22:00:00Z",
+      "tags": [
+        "TYPE_SESSIONS",
+        "THEME_WHATSNEXT",
+        "TOPIC_AUDIENCEGROWTH"
+      ],
+      "title": "France. The Sinuous Path of Sustainability",
+      "url": "https://events.google.com/io2015/schedule#/f48b9f91-b6d4-e411-b87f-00155d5066d7",
+      "youtubeUrl": "Lj-plmzhyVA"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-30T00:00:00Z",
+      "id": "a80e15fd-ccef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/a80e15fd-ccef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T23:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/a80e15fd-ccef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "An experience designed to raise the visitor’s awareness and call him or her to take action. The Germany Pavilion aimed to do both: indeed the theme of Germany’s participation in the Universal Exhibition was Field of Ideas, but the motto of the Pavilion was Bee Active, a play on words that invited visitors to be as busy as bees.",
+      "endTimestamp": "2015-05-29T20:00:00Z",
+      "hashtag": "audiencegrowth",
+      "id": "981b6234-57e4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_AUDIENCEGROWTH",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/10/germania_pic1.jpg",
+      "room": "f4ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "9ea1f3b3-68e4-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T19:00:00Z",
+      "tags": [
+        "TOPIC_AUDIENCEGROWTH"
+      ],
+      "title": "Germany. Where Awareness is Raised and Transformed into Action",
+      "url": "https://events.google.com/io2015/schedule#/981b6234-57e4-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-28T21:00:00Z",
+      "id": "6d760d25-37e5-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/6d760d25-37e5-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-28T20:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/6d760d25-37e5-e411-b87f-00155d5066d7"
+    },
+    {
+      "captionsUrl": "http://io-captions.appspot.com/?event=e3&android=t",
+      "description": "The Netherlands Pavilion was open-air. The decision to build this type of structure was dictated mainly by the theme, as the idea was to reproduce a typical Dutch festival. The result was a fun, stimulating and friendly place. “Share, Grow, Live” were the concepts with which the Netherlands answered the theme of Expo Milano 2015 and presented the richness of its territory and the technological progress. With the concept of “sharing” the country was expressing that the solutions to global challenges require international collaboration and the sharing of knowledge and resources by everyone.",
+      "endTimestamp": "2015-05-29T23:00:00Z",
+      "hashtag": "audiencegrowth",
+      "id": "5b718f8b-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": true,
+      "mainTag": "TOPIC_AUDIENCEGROWTH",
+      "photoUrl": "http://www.expo2015.org/wp-content/uploads/2015/10/olanda_pic2.jpg",
+      "room": "room3",
+      "speakers": [
+        "03eda25a-bad4-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T22:00:00Z",
+      "tags": [
+        "TOPIC_AUDIENCEGROWTH"
+      ],
+      "title": "Netherlands. A Place filled with the Fun and Conviviality of Dutch Festivals",
+      "url": "https://events.google.com/io2015/schedule#/5b718f8b-b6d4-e411-b87f-00155d5066d7",
+      "youtubeUrl": "4ZV54aJhues"
+    },
+
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-28T22:00:00Z",
+      "id": "f85052bc-c9ef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/f85052bc-c9ef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-28T21:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/f85052bc-c9ef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T18:00:00Z",
+      "id": "02aca013-ccef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/02aca013-ccef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T17:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/02aca013-ccef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T20:00:00Z",
+      "id": "d889342c-ccef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/d889342c-ccef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T19:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/d889342c-ccef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-29T22:00:00Z",
+      "id": "e0d9ca64-ccef-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/e0d9ca64-ccef-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-29T21:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/e0d9ca64-ccef-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The fair opened on 28 April 1906, ran until 31 October[3] and marked the opening of the Simplon Tunnel. The fair was held in Sempione Park and Piazza d'Armi',[2] with the first location hosting fine arts displays and the latter industrial and engineering exhibits, along with the foreign pavilions.[1] Countries contributing included many from Western Europe,[4] China, Japan, Turkey, United States, Canada and several South American countries shared a pavilion.",
+      "endTimestamp": "2015-05-29T20:00:00Z",
+      "hashtag": "android",
+      "id": "c20c1380-c9e3-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_AUTO",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/0116_Acq_Brunetti.jpg",
+      "room": "f0ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "14f4e83c-83dc-e411-b87f-00155d5066d7",
+        "7c4e6155-73f2-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-29T19:30:00Z",
+      "tags": [
+        "TOPIC_AUTO",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Transport",
+      "url": "https://events.google.com/io2015/schedule#/c20c1380-c9e3-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "Get hands on with self-paced workshops showcasing Google mobile, wearable, and Cloud technologies. We provide the workstations and tablets - just bring yourself any time during the day! We can also help you set up your own machine and device.",
+      "endTimestamp": "2015-05-28T20:00:00Z",
+      "id": "ac8d5cc7-36e5-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/ac8d5cc7-36e5-e411-b87f-00155d5066d7.jpg",
+      "room": "e32adaab-37e5-e411-b87f-00155d5066d7",
+      "speakers": [],
+      "startTimestamp": "2015-05-28T19:00:00Z",
+      "tags": [
+        "TYPE_CODELABS"
+      ],
+      "title": "Self-paced Code Labs",
+      "url": "https://events.google.com/io2015/schedule#/ac8d5cc7-36e5-e411-b87f-00155d5066d7"
+    },
+    {
+      "description": "The theme is aimed to concentrate on both the future of energy, but also on innovative, but practical energy solutions, and their global impact.",
+      "endTimestamp": "2015-05-28T21:30:00Z",
+      "hashtag": "android",
+      "id": "1c8c9f91-b6d4-e411-b87f-00155d5066d7",
+      "isFeatured": false,
+      "isLivestream": false,
+      "mainTag": "TOPIC_AUTO",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bayterek_Flowers.jpg/800px-Bayterek_Flowers.jpg",
+      "room": "f0ab1f84-c8e3-e411-b87f-00155d5066d7",
+      "speakers": [
+        "14f4e83c-83dc-e411-b87f-00155d5066d7",
+        "7c4e6155-73f2-e411-b87f-00155d5066d7"
+      ],
+      "startTimestamp": "2015-05-28T21:00:00Z",
+      "tags": [
+        "TOPIC_AUTO",
+        "TYPE_SANDBOXTALKS"
+      ],
+      "title": "Energy of the Future",
+      "url": "https://events.google.com/io2015/schedule#/1c8c9f91-b6d4-e411-b87f-00155d5066d7"
+    }
+  ],
+  "tags": [
+    {
+      "abstract": "",
+      "category": "TOPIC",
+      "name": "Earn",
+      "order_in_category": 6,
+      "original_id": "8c3ea76e-d3e7-e411-b87f-00155d5066d7",
+      "tag": "TOPIC_EARN"
+    },
+    {
+      "abstract": "",
+      "category": "TOPIC",
+      "name": "Location",
+      "order_in_category": 8,
+      "original_id": "18c111e1-2cbe-e411-b87f-00155d5066d7",
+      "tag": "TOPIC_LOCATION"
+    },
+    {
+      "abstract": "",
+      "category": "TYPE",
+      "name": "Code labs",
+      "order_in_category": 2,
+      "original_id": "57046578-9dd8-e411-b87f-00155d5066d7",
+      "tag": "TYPE_CODELABS"
+    },
+    {
+      "abstract": "",
+      "category": "THEME",
+      "name": "What's Next",
+      "order_in_category": 3,
+      "original_id": "09c111e1-2cbe-e411-b87f-00155d5066d7",
+      "tag": "THEME_WHATSNEXT"
+    },
+    {
+      "abstract": "",
+      "category": "TOPIC",
+      "name": "Themes",
+      "order_in_category": 3,
+      "original_id": "3490c1fc-1dd8-e411-b87f-00155d5066d7",
+      "tag": "TOPIC_AUTO"
+    },
+    {
+      "abstract": "",
+      "category": "TOPIC",
+      "name": "Attractions",
+      "order_in_category": 2,
+      "original_id": "9d7157f0-1dd8-e411-b87f-00155d5066d7",
+      "tag": "TOPIC_AUDIENCEGROWTH"
+    },
+    {
+      "abstract": "",
+      "category": "TYPE",
+      "name": "National Day",
+      "order_in_category": 5,
+      "original_id": "85ad57c6-88e4-e411-b87f-00155d5066d7",
+      "tag": "TYPE_MISC"
+    },
+    {
+      "abstract": "",
+      "category": "TYPE",
+      "name": "General Speech",
+      "order_in_category": 3,
+      "original_id": "b63fb158-9dd8-e411-b87f-00155d5066d7",
+      "tag": "TYPE_SANDBOXTALKS"
+    },
+    {
+      "abstract": "",
+      "category": "TOPIC",
+      "name": "Expo People",
+      "order_in_category": 11,
+      "original_id": "1dc111e1-2cbe-e411-b87f-00155d5066d7",
+      "tag": "TOPIC_TOOLS&APIS"
+    },
+    {
+      "abstract": "",
+      "category": "TYPE",
+      "name": "Sessions",
+      "order_in_category": 1,
+      "original_id": "03c111e1-2cbe-e411-b87f-00155d5066d7",
+      "tag": "TYPE_SESSIONS"
+    }
+  ]
+}

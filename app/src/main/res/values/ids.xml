@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item name="myschedule_uri_tagkey" type="id"/>
+    <item name="myschedule_viewtype_tagkey" type="id"/>
+    <item name="myschedule_generation_tagkey" type="id"/>
+    <item name="tag_person_id" type="id"/>
+    <item name="tag_person_name" type="id"/>
+    <item name="tag_person_note" type="id"/>
+
+</resources>
